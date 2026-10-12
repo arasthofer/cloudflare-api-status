@@ -1,4 +1,4 @@
-# Fieldnotes API Status
+# API Status
 
 A responsive API status dashboard built with plain HTML, CSS, and JavaScript. All service health, latency, uptime, regional metrics, and incidents are illustrative mock data; the page makes no network requests.
 
